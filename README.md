@@ -1,2 +1,1 @@
-# Quora-Insincere-Questions-Classification
-Build some DL models to predict whether a question asked on Quora is sincere or not using Tensorflow 2.0 
+Build some DL models to predict whether a question asked on Quora is sincere or not using Tensorflow 2.0 with F1-score metrics. Some techniques used: use pre-trained word embeddings GLOVE, Bidirectional LSTM, GRU, dropout, ReduceLROnPlateau Callback, EarlyStopping Callback
